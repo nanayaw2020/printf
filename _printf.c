@@ -3,8 +3,8 @@
 void print_buffer(char buffer[], int *buff_ind);
 
 /**
- * _printf - Printf function
- * @format: format.
+ * _printf - Be Printf function
+ * @format: be format.
  * by Nana Yaw Osei-Poku and Adwoa Birago Adomako
  * Return: Printed chars.
  */
