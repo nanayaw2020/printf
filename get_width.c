@@ -2,7 +2,7 @@
 
 /**
  * get_width - Calculates the width for printing
- * by Nana Yaw Osei-Poku and Adwoa Adomako
+ * by Nana Yaw Osei-Poku and Adwoa Birago Adomako
  * @format: Formatted string in which to print the arguments.
  * @i: List of arguments to be printed.
  * @list: list of arguments.

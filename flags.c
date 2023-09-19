@@ -2,7 +2,7 @@
 
 /**
  * get_flags - Calculates active flags
- * by Nana Yaw Osei-Poku and Adwoa Adomako
+ * by Nana Yaw Osei-Poku and Adwoa Birago Adomako
  * @format: Formatted string in which to print the arguments
  * @i: take a parameter.
  * Return: Flags:

@@ -4,7 +4,7 @@
 
 /**
  * print_char - Prints a char
- * by Nana Yaw Osei-Poku and Adwoa Adomako
+ * by Nana Yaw Osei-Poku and Adwoa Birago Adomako
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags

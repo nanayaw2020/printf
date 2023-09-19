@@ -2,7 +2,7 @@
 
 /**
  * is_printable - Evaluates if a char is printable
- * by Nana Yaw Osei-Poku and Adwoa Adomako
+ * by Nana Yaw Osei-Poku and Adwoa Birago Adomako
  * @c: Char to be evaluated.
  *
  * Return: 1 if c is printable, 0 otherwise
